@@ -7,7 +7,7 @@
     <license type="expression">MIT</license>
     <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
     <description>Reusable Razor components and modal dialog for BlazingPizza.</description>
-    <repository type="git" url="https://github.com/Sembatya2020/blazorevents" commit="d41f283b51f471f05dbdc75eeeb32f4649408147" />
+    <repository type="git" url="https://github.com/Sembatya2020/blazorevents" commit="96d956f10087d7bc9908fe6d7fcacb412b758d1a" />
     <dependencies>
       <group targetFramework="net9.0">
         <dependency id="Microsoft.AspNetCore.Components.Web" version="9.0.10" exclude="Build,Analyzers" />

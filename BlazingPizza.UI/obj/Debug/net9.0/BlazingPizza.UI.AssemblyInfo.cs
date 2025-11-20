@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Reusable Razor components and modal dialog for BlazingPizza.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d41f283b51f471f05dbdc75eeeb32f4649408147")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96d956f10087d7bc9908fe6d7fcacb412b758d1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazingPizza.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazingPizza.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
