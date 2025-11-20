@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BlazingPizza.UI</id>
+    <version>1.0.0</version>
+    <authors>Sembatya2020</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Reusable Razor components and modal dialog for BlazingPizza.</description>
+    <repository type="git" url="https://github.com/Sembatya2020/blazorevents" commit="f0f199e5d03507d1f8fb16503c7fda5b9b2fe033" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="9.0.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\DELL\Desktop\.net\week04\blazorevents\BlazingPizza.UI\bin\Debug\net9.0\BlazingPizza.UI.dll" target="lib\net9.0\BlazingPizza.UI.dll" />
+    <file src="C:\Users\DELL\Desktop\.net\week04\blazorevents\BlazingPizza.UI\obj\Debug\net9.0\scopedcss\projectbundle\BlazingPizza.UI.bundle.scp.css" target="staticwebassets\BlazingPizza.UI.xmymtm2oxw.bundle.scp.css" />
+    <file src="C:\Users\DELL\Desktop\.net\week04\blazorevents\BlazingPizza.UI\wwwroot\background.png" target="staticwebassets\background.png" />
+    <file src="C:\Users\DELL\Desktop\.net\week04\blazorevents\BlazingPizza.UI\wwwroot\banner.png" target="staticwebassets\banner.png" />
+    <file src="C:\Users\DELL\Desktop\.net\week04\blazorevents\BlazingPizza.UI\wwwroot\exampleJsInterop.js" target="staticwebassets\exampleJsInterop.js" />
+    <file src="C:\Users\DELL\Desktop\.net\week04\blazorevents\BlazingPizza.UI\obj\Debug\net9.0\staticwebassets\msbuild.BlazingPizza.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" target="build\Microsoft.AspNetCore.StaticWebAssetEndpoints.props" />
+    <file src="C:\Users\DELL\Desktop\.net\week04\blazorevents\BlazingPizza.UI\obj\Debug\net9.0\staticwebassets\msbuild.BlazingPizza.UI.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+    <file src="C:\Users\DELL\Desktop\.net\week04\blazorevents\BlazingPizza.UI\obj\Debug\net9.0\staticwebassets\msbuild.build.BlazingPizza.UI.props" target="build\BlazingPizza.UI.props" />
+    <file src="C:\Users\DELL\Desktop\.net\week04\blazorevents\BlazingPizza.UI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BlazingPizza.UI.props" target="buildMultiTargeting\BlazingPizza.UI.props" />
+    <file src="C:\Users\DELL\Desktop\.net\week04\blazorevents\BlazingPizza.UI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BlazingPizza.UI.props" target="buildTransitive\BlazingPizza.UI.props" />
+  </files>
+</package>

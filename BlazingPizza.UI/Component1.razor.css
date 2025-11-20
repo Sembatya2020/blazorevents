@@ -1,0 +1,12 @@
+﻿.rcl-banner {
+  border: 2px dashed #c00;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}.my-component {
+    border: 2px dashed red;
+    padding: 1em;
+    margin: 1em 0;
+    background-image: url('background.png');
+}

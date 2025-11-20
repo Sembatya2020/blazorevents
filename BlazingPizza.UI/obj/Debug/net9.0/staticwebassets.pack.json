@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\.net\\week04\\blazorevents\\BlazingPizza.UI\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazingPizza.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazingPizza.UI.xmymtm2oxw.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\.net\\week04\\blazorevents\\BlazingPizza.UI\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\.net\\week04\\blazorevents\\BlazingPizza.UI\\wwwroot\\banner.png",
+      "PackagePath": "staticwebassets\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\.net\\week04\\blazorevents\\BlazingPizza.UI\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BlazingPizza.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BlazingPizza.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BlazingPizza.UI.props",
+      "PackagePath": "build\\BlazingPizza.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazingPizza.UI.props",
+      "PackagePath": "buildMultiTargeting\\BlazingPizza.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BlazingPizza.UI.props",
+      "PackagePath": "buildTransitive\\BlazingPizza.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
